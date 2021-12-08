@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/drawable/background.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/drawable/down.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/drawable/pressed_rectangle.xml" value="0.2203125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/drawable/rectangle.xml" value="0.165625" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/drawable/stop.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/drawable/up.xml" value="0.13489583333333333" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/font/font.xml" value="0.153125" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/layout/activity_scanner.xml" value="0.25" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/layout/activity_search.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/layout/building_item.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/layout/elevator_item.xml" value="0.67" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/layout/entrance_item.xml" value="0.14" />
+        <entry key="..\:/Users/Admin/AndroidStudioProjects/Project1/app/src/main/res/layout/floor_item.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
